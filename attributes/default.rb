@@ -1,0 +1,1 @@
+default['frhed']['version'] = :latest
